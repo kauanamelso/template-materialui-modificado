@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/seu-usuario/template-materialui-modificado.git
+git add .
+git commit -m "Modifiquei os estilos e comportamentos do projeto template"
